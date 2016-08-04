@@ -1,0 +1,40 @@
+_repo: Creatures-That-Once-Were-Men_681
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: &id001 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxim
+    - Горький, Максим
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: *id001
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Creatures That Once Were Men
+url: http://www.gutenberg.org/ebooks/681
