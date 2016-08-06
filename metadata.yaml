@@ -1,5 +1,5 @@
 _repo: Creatures-That-Once-Were-Men_681
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -7,7 +7,7 @@ contributor:
     - Chesterton, Gilbert Keith
     - Chesterton, Gilbert K. (Gilbert Keith)
     birthdate: 1874
-    deathdate: &id001 1936
+    deathdate: 1936
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
@@ -19,7 +19,7 @@ creator:
     - Горький, Максим
     - Peshkov, Alexey Maximiovich
     birthdate: 1868
-    deathdate: *id001
+    deathdate: 1936
     gutenberg_agent_id: '348'
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
