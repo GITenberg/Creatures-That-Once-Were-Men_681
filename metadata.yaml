@@ -1,5 +1,5 @@
 _repo: Creatures-That-Once-Were-Men_681
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/681#Creatures-That-Once-Were-Men
 gutenberg_issued: '1996-10-01'
 gutenberg_type: Text
 identifiers:
